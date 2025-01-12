@@ -1,0 +1,19 @@
+{
+  "Telerik":{
+    "cats": [
+      66
+    ],
+    "cpe": "cpe:2.3:a:telerik:ui_for_asp.net_ajax",
+    "icon": "Telerik.png",
+    "html": [
+      "value=\";Telerik.Web.UI",
+      "value=\"Telerik.Web.UI",
+      "Telerik.Web.UI.RadAjaxManager",
+      "Telerik.Web.UI.RadAjaxLoadingPanel",
+      "$telerik.$",
+      "\/Telerik.Web.UI.WebResource.axd"
+    ],
+    "description": "Telerik is a comprehensive software suite developed by Progress that provides tools and components for building modern web, desktop, and mobile applications.",
+    "website": "https://www.telerik.com"
+  }
+}

@@ -1,0 +1,31 @@
+{
+    "Dourtal ECM": {
+    "cats": [
+      1
+    ],
+    "cpe": "cpe:/a:dourangroup:dourtal",
+    "icon": "Dourtal.png",
+    "implies": "Microsoft ASP.NET",
+    "headers": {
+      "Set-Cookie": "Esperantus_Language_Portal"
+    },
+    "cookies": {
+      "Esperantus_Language_Portal": "fa-IR"
+    },
+    "meta": {
+      "generator": "Dourtal ECM",
+      "Design": "http://dourtal.com"
+    },
+    "html": [
+      "<meta[^>]*(Dourtal|Douran Group)[^>]*version=\"([\\d.]+)\"[^>]*>\\;version:\\2",
+      "\/min\/douran-font.css",
+      "\/_DouranPortal\/"
+    ],
+    "scriptSrc": [
+      "\/DouranClientFramework.js",
+      "\/advanceSlider\/settings\/DouranSlider.js"
+    ],
+    "description": "Dortal is the first and only organizational content management software to hold a Presidential EFTA license in the field of EFTA products and is a strong and suitable platform for implementing an electronic service delivery strategy.",
+    "website": "https://www.dourtal.com"
+  }
+}
